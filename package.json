@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "raf7dev",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
